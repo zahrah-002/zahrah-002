@@ -5,7 +5,7 @@
 
 [English](#english) · [العربية](#العربية)
 
-**Python · R · Power BI · Excel · SPSS**
+**Python · R · SQL · Power BI · Excel · SPSS**
 
 </div>
 
@@ -23,9 +23,20 @@ Data analyst and Statistics graduate from Qassim University with Second-Class Ho
 
 | Area | Tools |
 | --- | --- |
-| Data analysis and programming | Python, R |
+| Data analysis and programming | Python, R, SQL |
 | Dashboards and reporting | Power BI, Excel |
 | Statistical analysis | R, SPSS |
+
+### Project Portfolio
+
+| Project | Tools | Project page |
+| --- | --- | --- |
+| Saudi inbound tourism analysis | Excel, Power BI | [Overview & dashboard](projects/saudi-inbound-tourism/) |
+| STC TV viewer behavior | Python, Pandas, Google Colab | [Overview & report](projects/stc-tv-viewer-analysis/) |
+| Retail sales dashboard | Power BI, Excel, DAX | [Overview & indicators](projects/retail-sales-dashboard/) |
+| SAMA POS analysis: Q1 vs Q2 2026 | R, R Markdown, Excel | [Repository](https://github.com/zahrah-002/sama-pos-2026) |
+
+[Visit my portfolio](https://statistical-portfolio.my.canva.site/statistical-portfolio-zahrah-faleh-alodhaylah) · [LinkedIn](https://www.linkedin.com/in/zahrah-alodhaylah)
 
 ### Featured Project
 
@@ -62,11 +73,20 @@ I am seeking opportunities in data analysis and statistics, with an interest in 
 <table>
 <thead><tr><th>المجال</th><th>الأدوات</th></tr></thead>
 <tbody>
-<tr><td>تحليل البيانات والبرمجة</td><td dir="ltr">Python, R</td></tr>
+<tr><td>تحليل البيانات والبرمجة</td><td dir="ltr">Python, R, SQL</td></tr>
 <tr><td>لوحات المعلومات والتقارير</td><td dir="ltr">Power BI, Excel</td></tr>
 <tr><td>التحليل الإحصائي</td><td dir="ltr">R, SPSS</td></tr>
 </tbody>
 </table>
+
+<h3>معرض المشاريع</h3>
+<ul>
+<li><a href="projects/saudi-inbound-tourism/">تحليل السياحة الوافدة — مشروع التخرج</a>: Excel وPower BI.</li>
+<li><a href="projects/stc-tv-viewer-analysis/">تحليل سلوك مشاهدي STC TV</a>: Python وPandas وGoogle Colab.</li>
+<li><a href="projects/retail-sales-dashboard/">لوحة مبيعات التجزئة والأداء المالي</a>: Power BI وExcel وDAX.</li>
+<li><a href="https://github.com/zahrah-002/sama-pos-2026">تحليل نقاط البيع — الربع الأول والثاني 2026</a>: R وR Markdown وExcel.</li>
+</ul>
+<p><a href="https://statistical-portfolio.my.canva.site/statistical-portfolio-zahrah-faleh-alodhaylah">معرض أعمالي</a> · <a href="https://www.linkedin.com/in/zahrah-alodhaylah">LinkedIn</a></p>
 
 <h3>المشروع المميز</h3>
 
