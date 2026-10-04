@@ -27,7 +27,7 @@ Microsoft Excel · Power BI
 These figures are reproduced from the portfolio; they have not been recalculated from source data here.
 
 ## Project Links
-[Interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiYWIxM2U5YzktNGZjNC00MzExLWJjMDgtOGIwMmI4NjdmODlhIiwidCI6ImMyYjA0ZGE2LTg0ODctNDFjYy04ODAzLTkwMzIxMDQ4YTc3MiIsImMiOjl9) · [Full project](https://1drv.ms/b/c/97381862f3a68eb3/IQC9IALD-htETotV1uOlY5uOAedRhfiZQyflEXEQSv5vgOQ)
+[Interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiYWIxM2U5YzktNGZjNC00MzExLWJjMDgtOGIwMmI4NjdmODlhIiwidCI6ImMyYjA0ZGE2LTg0ODctNDFjYy04ODAzLTkwMzIxMDQ4YTc3MiIsImMiOjl9) · [Full project](https://1drv.ms/b/c/97381862f3a68eb3/IQCFc5fpfCGRSK6E--vAh6z3Aar4Sxm1_atvmzxaLdtS3Yg?e=f8DRbQ)
 
 This page documents the project using the supplied portfolio. The original workbook, Power BI file, and forecasting implementation are not included in this folder.
 
