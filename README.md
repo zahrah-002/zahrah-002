@@ -17,7 +17,7 @@
 
 ### About Me
 
-I am a data analyst with a Bachelor's degree in Statistics from Qassim University, graduating with Second-Class Honors. I am interested in turning data into clear insights through statistical analysis, visualization, and reporting.
+Data analyst and Statistics graduate from Qassim University with Second-Class Honors. My interests include data preparation, statistical analysis, visualization, and communicating findings through clear reports and dashboards.
 
 ### Skills
 
@@ -33,7 +33,8 @@ I am a data analyst with a Bachelor's degree in Statistics from Qassim Universit
 
 An R-based analysis of the supplied Saudi Central Bank (SAMA) point-of-sale dataset. The project compares transaction volume, transaction value, and average transaction value across 27 aggregated items.
 
-The work includes data validation, quarterly comparisons, item-level changes, descriptive statistics, exploratory statistical comparisons, and visualizations. Results are presented in an R Markdown report and exported to Excel.
+**Tools:** R · R Markdown · Excel  
+**Deliverables:** Analytical report · Visualizations · Excel results
 
 [View the report](https://zahrah-002.github.io/sama-pos-2026/) · [Explore the code](https://github.com/zahrah-002/sama-pos-2026)
 
@@ -73,7 +74,8 @@ I am seeking opportunities in data analysis and statistics, with an interest in 
 
 <p>مشروع تحليلي باستخدام R لبيانات نقاط البيع الواردة في ملف البنك المركزي السعودي (ساما). يقارن المشروع عدد العمليات، وقيمتها، ومتوسط قيمة العملية عبر 27 بندًا مجمّعًا.</p>
 
-<p>يشمل المشروع التحقق من البيانات، والمقارنة بين الربعين، وتحليل التغيرات على مستوى البنود، والإحصاءات الوصفية، والمقارنات الإحصائية الاستكشافية، والرسوم البيانية. تُعرض النتائج في تقرير باستخدام R Markdown، مع تصديرها إلى Excel.</p>
+<p><strong>الأدوات:</strong> R وR Markdown وExcel.</p>
+<p><strong>المخرجات:</strong> تقرير تحليلي، ورسوم بيانية، وملف Excel للنتائج.</p>
 
 <p><a href="https://zahrah-002.github.io/sama-pos-2026/">عرض التقرير</a> · <a href="https://github.com/zahrah-002/sama-pos-2026">عرض الكود وملفات المشروع</a></p>
 
